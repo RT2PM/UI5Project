@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.content-container {
+  padding-top: 70px;
+  min-height: calc(100vh - 70px);
+}
+
+* {
+  --sapTile_TitleTextColor: limegreen;
+}

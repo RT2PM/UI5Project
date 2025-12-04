@@ -1,0 +1,14 @@
+.container {
+    background-color: var(--sapBackgroundColor);
+    font-family: var(--sapFontFamily);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--sapElement_BorderCornerRadius);
+    margin-bottom: var(--sapContent_GridGap);
+    padding: var(--sapContent_GridGap);
+    border: 1px solid var(--sapGroup_ContentBorderColor);
+    box-shadow: var(--sapContent_Shadow0);
+}
